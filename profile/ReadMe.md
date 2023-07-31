@@ -1,0 +1,1 @@
+METAS is a forward-thinking organization dedicated to creating innovative software solutions. We strive to develop cutting-edge applications, frameworks, and libraries that empower developers and enhance user experiences. Our team is passionate about technology, collaboration, and open source.
