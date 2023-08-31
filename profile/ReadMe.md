@@ -1,5 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=header"/>
 
+<p align="center">
+     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
+     <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">&emsp;
+     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" /> 
+</p>
+
 # METAS
 
 Welcome to the METAS organization's GitHub profile page! This page provides an overview of our organization, its purpose, projects, and guidelines for contribution.
