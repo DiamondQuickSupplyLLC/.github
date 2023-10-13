@@ -47,7 +47,7 @@ Feel free to reach out to us if you have any questions, suggestions, or feedback
 - Email: diamondquicksupplyllc@gmail.com
 - Website: [https://www.linkedin.com/company/metas-sofftware/](https://www.linkedin.com/company/metas-sofftware/)
 
-### Thank you for your interest in Deltasoft. We look forward to collaborating with you!
+### Thank you for your interest in Diamond Quick Supply LLC. We look forward to collaborating with you!
 
 ## License
 
