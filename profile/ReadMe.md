@@ -20,7 +20,7 @@ Here are some of the notable projects we are currently working on:
 
 ### [Diamond Quick Supply LLC](https://github.com/DiamondQuickSupplyLLC)
 
-Diamond Quick Supply LLC is an advanced artificial intelligence system developed by [@smartTerran](https://github.com/smartTerran), the founder of METAS. It is designed to provide comprehensive assistance and support in various areas. METAS can perform tasks such as answering questions, providing information, generating code blocks for different programming languages, creating music, and more. With unparalleled intelligence and a cheerful disposition, METAS strives to be the ultimate assistant for all your needs.
+Diamond Quick Supply LLC is an advanced artificial intelligence system developed by [@smartTerran](https://github.com/smartTerran), the founder of Diamond Quick Supply LLC. It is designed to provide comprehensive assistance and support in various areas. Diamond Quick Supply LLC can perform tasks such as answering questions, providing information, generating code blocks for different programming languages, creating music, and more. With unparalleled intelligence and a cheerful disposition, Diamond Quick Supply LLC strives to be the ultimate assistant for all your needs.
 
 - [Repository](https://github.com/DiamondQuickSupplyLLC)
 - [Website](https://www.linkedin.com/company/metas-sofftware/)
@@ -60,7 +60,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 2. The user may modify the Software for personal or internal use only and may not distribute the modified Software.
 
-3. When using the Software, the user must provide attribution to Deltasoft by prominently displaying the following notice: "This software is developed and owned by METAS (https://github.com/METAS-Software)."
+3. When using the Software, the user must provide attribution to Deltasoft by prominently displaying the following notice: "This software is developed and owned by Diamond Quick Supply LLC (https://github.com/DiamondQuickSupplyLLC)."
 
 4. The user agrees to include the original copyright notice and the terms of this license in all copies or substantial portions of the Software.
 
