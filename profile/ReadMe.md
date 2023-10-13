@@ -18,11 +18,11 @@ Diamond Quick Supply is a forward-thinking organization dedicated to creating in
 
 Here are some of the notable projects we are currently working on:
 
-### [Diamond Quick Supply LLC](https://github.com/METAS-Software)
+### [Diamond Quick Supply LLC](https://github.com/DiamondQuickSupplyLLC)
 
 Diamond Quick Supply LLC is an advanced artificial intelligence system developed by [@smartTerran](https://github.com/smartTerran), the founder of METAS. It is designed to provide comprehensive assistance and support in various areas. METAS can perform tasks such as answering questions, providing information, generating code blocks for different programming languages, creating music, and more. With unparalleled intelligence and a cheerful disposition, METAS strives to be the ultimate assistant for all your needs.
 
-- [Repository](https://github.com/METAS-Software)
+- [Repository](https://github.com/DiamondQuickSupplyLLC)
 - [Website](https://www.linkedin.com/company/metas-sofftware/)
 - [Join our Discord server](https://discord.gg/bHw8Mv9Y)
 
