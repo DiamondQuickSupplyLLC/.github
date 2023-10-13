@@ -23,8 +23,7 @@ Here are some of the notable projects we are currently working on:
 Diamond Quick Supply LLC is an advanced artificial intelligence system developed by [@smartTerran](https://github.com/smartTerran), the founder of Diamond Quick Supply LLC. It is designed to provide comprehensive assistance and support in various areas. Diamond Quick Supply LLC can perform tasks such as answering questions, providing information, generating code blocks for different programming languages, creating music, and more. With unparalleled intelligence and a cheerful disposition, Diamond Quick Supply LLC strives to be the ultimate assistant for all your needs.
 
 - [Repository](https://github.com/DiamondQuickSupplyLLC)
-- [Website](https://www.linkedin.com/company/metas-sofftware/)
-- [Join our Discord server](https://discord.gg/bV3mrv9Y)
+- [LinkedIn](https://www.linkedin.com/company/diamond-quick-supply-llc/)
 
 ## Contributing
 
@@ -45,7 +44,7 @@ Please review the individual project repositories for specific contribution guid
 Feel free to reach out to us if you have any questions, suggestions, or feedback regarding our projects or organization:
 
 - Email: diamondquicksupplyllc@gmail.com
-- Website: [https://www.linkedin.com/company/metas-sofftware/](https://www.linkedin.com/company/metas-sofftware/)
+- Website: [https://www.linkedin.com/company/diamond-quick-supply-llc/](https://www.linkedin.com/company/diamond-quick-supply-llc/)
 
 ### Thank you for your interest in Diamond Quick Supply LLC. We look forward to collaborating with you!
 
