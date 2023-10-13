@@ -24,7 +24,7 @@ Diamond Quick Supply LLC is an advanced artificial intelligence system developed
 
 - [Repository](https://github.com/DiamondQuickSupplyLLC)
 - [Website](https://www.linkedin.com/company/metas-sofftware/)
-- [Join our Discord server](https://discord.gg/bHw8Mv9Y)
+- [Join our Discord server](https://discord.gg/bV3mrv9Y)
 
 ## Contributing
 
