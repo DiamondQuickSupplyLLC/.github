@@ -6,21 +6,21 @@
      <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" /> 
 </p>
 
-# METAS
+# Diamond Quick Supply LLC
 
-Welcome to the METAS organization's GitHub profile page! This page provides an overview of our organization, its purpose, projects, and guidelines for contribution.
+Welcome to the Diamond Quick Supply organization's GitHub profile page! This page provides an overview of our organization, its purpose, projects, and guidelines for contribution.
 
-## About METAS
+## About Diamond Quick Supply LLC
 
-METAS is a forward-thinking organization dedicated to creating innovative software solutions. We strive to develop cutting-edge applications, frameworks, and libraries that empower developers and enhance user experiences. Our team is passionate about technology, collaboration, and open source.
+Diamond Quick Supply is a forward-thinking organization dedicated to creating innovative software solutions. We strive to develop cutting-edge applications, frameworks, and libraries that empower developers and enhance user experiences. Our team is passionate about technology, collaboration, and open source.
 
 ## Projects
 
 Here are some of the notable projects we are currently working on:
 
-### [METAS](https://github.com/METAS-Software)
+### [Diamond Quick Supply LLC](https://github.com/METAS-Software)
 
-METAS is an advanced artificial intelligence system developed by [@smartTerran](https://github.com/smartTerran), the founder of METAS. It is designed to provide comprehensive assistance and support in various areas. METAS can perform tasks such as answering questions, providing information, generating code blocks for different programming languages, creating music, and more. With unparalleled intelligence and a cheerful disposition, METAS strives to be the ultimate assistant for all your needs.
+Diamond Quick Supply LLC is an advanced artificial intelligence system developed by [@smartTerran](https://github.com/smartTerran), the founder of METAS. It is designed to provide comprehensive assistance and support in various areas. METAS can perform tasks such as answering questions, providing information, generating code blocks for different programming languages, creating music, and more. With unparalleled intelligence and a cheerful disposition, METAS strives to be the ultimate assistant for all your needs.
 
 - [Repository](https://github.com/METAS-Software)
 - [Website](https://www.linkedin.com/company/metas-sofftware/)
@@ -44,7 +44,7 @@ Please review the individual project repositories for specific contribution guid
 
 Feel free to reach out to us if you have any questions, suggestions, or feedback regarding our projects or organization:
 
-- Email: metassoftdev@gmail.com
+- Email: diamondquicksupplyllc@gmail.com
 - Website: [https://www.linkedin.com/company/metas-sofftware/](https://www.linkedin.com/company/metas-sofftware/)
 
 ### Thank you for your interest in Deltasoft. We look forward to collaborating with you!
