@@ -59,7 +59,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 2. The user may modify the Software for personal or internal use only and may not distribute the modified Software.
 
-3. When using the Software, the user must provide attribution to Deltasoft by prominently displaying the following notice: "This software is developed and owned by Diamond Quick Supply LLC (https://github.com/DiamondQuickSupplyLLC)."
+3. When using the Software, the user must provide attribution to Diamond Quick Supply by prominently displaying the following notice: "This software is developed and owned by Diamond Quick Supply LLC (https://github.com/DiamondQuickSupplyLLC)."
 
 4. The user agrees to include the original copyright notice and the terms of this license in all copies or substantial portions of the Software.
 
