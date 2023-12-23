@@ -43,7 +43,7 @@ Please review the individual project repositories for specific contribution guid
 
 Feel free to reach out to us if you have any questions, suggestions, or feedback regarding our projects or organization:
 
-- Email: diamondquicksupplyllc@gmail.com
+- Email: support@diamondquicksupply.com
 - Website: [https://www.linkedin.com/company/diamond-quick-supply-llc/](https://www.linkedin.com/company/diamond-quick-supply-llc/)
 
 ### Thank you for your interest in Diamond Quick Supply LLC. We look forward to collaborating with you!
